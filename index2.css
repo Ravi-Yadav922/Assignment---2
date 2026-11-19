@@ -1,0 +1,142 @@
+.div1{
+    color: white;background-color: black;padding: 5px 600px ;box-sizing: border-box;
+}
+#p1{
+    width: 200px;background-color: white;color: gray;position: relative;top: 35px;
+}
+.button1{
+    margin: 0px 220px;
+}
+.h31{
+    background-color: grey;text-align:center;position: sticky;top: 0px;margin: 0px;
+}
+.div3{
+    background-color: yellow;height: 200px;padding: 50px 600px;box-sizing: border-box;
+}
+.h32{
+    text-align: center;
+}
+.div4{
+    background-color: lightgray;position: relative;height: 1610px;
+}
+.div_1{
+    width: 150px;height: 250px;background-color: white;text-align: center;position: absolute;left: 200px;top: 40px;
+}
+.div_2{
+    width: 150px;height: 250px;background-color: white;text-align: center;position: absolute;left: 450px;top: 40px;
+}
+.div_3{
+    width: 150px;height: 250px;background-color: white;text-align: center;position: absolute;left: 700px;
+}
+.div_4{
+    width: 150px;height: 250px;background-color: white;text-align: center;position: absolute;left: 950px;
+}
+.h33{
+    position: absolute;left: 600px;top: 280px;
+}
+table{
+    width: 1500px;position: absolute;top: 350px;
+}
+.th1{
+    background-color: black;color: white;
+}
+.tr1{
+    background-color: white;
+}
+img{
+    height: 70px;width: 80px;padding-top: 8px;
+}
+.form-card {
+    background-color: #ffffff;
+    width: 480px;
+    margin: 25px auto;
+    padding: 25px;
+    border-radius: 8px;
+    border: 1px solid #dcdcdc;
+    font-family: Arial, sans-serif;
+    box-sizing: border-box;
+    position: absolute;top: 500px;left: 500px;
+}
+.form-card h2 {
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 20px;
+    font-size: 20px;
+    color: #222;
+}
+.form-group {
+    margin-bottom: 14px;
+}
+.form-group label {
+    display: block;
+    font-size: 13px;
+    margin-bottom: 6px;
+    color: #222;
+}
+.form-group input[type="text"],
+.form-group input[type="email"],
+.form-group input[type="tel"],
+.form-group input[type="password"],
+.form-group select,
+.form-group textarea {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    font-size: 13px;
+}
+.form-group textarea {
+    height: 75px;
+    resize: vertical;
+}
+.option-item {
+    margin-bottom: 6px;
+}
+.option-item input {
+    display: block;
+    margin-bottom: 4px;
+}
+.option-item label {
+    display: block;
+    font-size: 13px;
+    margin: 0;
+}
+.btn-group {
+    margin-top: 15px;
+}
+.btn {
+    background-color: #222222;
+    color: #ffffff;
+    border: none;
+    padding: 8px 18px;
+    border-radius: 4px;
+    font-size: 13px;
+    cursor: pointer;
+    margin-right: 6px;
+}
+.btn:hover {
+    background-color: #444444;
+}
+.footer {
+    background-color: #1e1e1e;
+    color: #ffffff;
+    text-align: center;
+    padding: 20px 10px;
+    font-family: Arial, sans-serif;
+    font-size: 12px;
+    margin-top: 30px;
+    width: 1475px;
+    position: absolute;top: 1500px;
+}
+.footer p {
+    margin: 0 0 10px 0;
+}
+.footer a {
+    color: #ffffff;
+    text-decoration: none;
+    margin: 0 8px;
+}
+.footer a:hover {
+    text-decoration: underline;
+}
